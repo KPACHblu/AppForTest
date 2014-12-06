@@ -1,4 +1,7 @@
-package org.aub.pattern.gof.behavioral.strategy;
+package org.aub.pattern.gof.behavioral.strategy.client;
+
+import org.aub.pattern.gof.behavioral.strategy.Knigh;
+import org.aub.pattern.gof.behavioral.strategy.Troll;
 
 /**
  * The strategy pattern defines a family of algorithms,
